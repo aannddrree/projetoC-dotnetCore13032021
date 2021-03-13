@@ -1,4 +1,4 @@
-# Introdução a Dotnet Core
+# Introdução ao dotnet core
 
 1 - Para instalar do framework é necessário entrar no site: 
 
